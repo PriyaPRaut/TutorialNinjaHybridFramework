@@ -1,7 +1,7 @@
 package test;
 
 
-// updated comment
+// updated commentd-Added more details
 public class Test1 {
 	public static void main(String[] args) {
 		
